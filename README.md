@@ -1,0 +1,2 @@
+# Strings
+FxSound translation strings
