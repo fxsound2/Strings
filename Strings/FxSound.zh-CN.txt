@@ -1,6 +1,6 @@
 language: Chinese (Simplified)
 countries: cn sg
-"Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "哎呀！您的播放设备设置有问题。\r\n在我们开始之前，请通过 "
+"Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "哎呀！您的播放设备设置有问题。\r\n在我们开始之前，请遵循 "
 "troubleshooting steps here." = "此处的故障排除步骤。"
 " if you\'re still having problems." = " 如果您仍然遇到问题。"
 "Contact us" = "联系我们"
@@ -8,7 +8,7 @@ countries: cn sg
 "OK" = "确定"
 "Click here to see what\'s new on this version!" = "单击此处查看此版本的新功能！"
 "FxSound in system tray\r\nClick FxSound icon to reopen" = "FxSound 在系统托盘中\r\n单击 FxSound 图标重新打开"
-"Thanks for using FxSound! Would you be\r\ninterested in helping us by taking a quick 4 minute\r\nsurvey so we can make FxSound better?" = "感谢您使用 FxSound！\r\n您是否有兴趣抽出4分钟帮助我们，\r\n以便我们可以让 FxSound 变得更好?"
+"Thanks for using FxSound! Would you be\r\ninterested in helping us by taking a quick 4 minute\r\nsurvey so we can make FxSound better?" = "感谢您使用 FxSound！\r\n您是否有兴趣抽出4分钟帮助我们，\r\n以便我们让 FxSound 变得更好?"
 "Take the survey." = "参加调查。"
 "Changes to your preset are not saved.\r\nDo you want to exit?" = "不会保存对预设的更改。\r\n你想退出吗?"
 "Changes to your preset are not saved.\r\nDo you want to ignore the changes?" = "不会保存对预设的更改。\r\n你是否要忽略更改?"
@@ -52,7 +52,7 @@ countries: cn sg
 "Select the presets to export..." = "选择要导出的预设..."
 "Presets are exported successfully!" = "预设导出成功！"
 "Presets successfully imported" = "预设成功导入"
-"Duplicate presets not imported" = "未导入重复的预设"
+"Duplicate presets not imported" = "未导入重复预设"
 "Import Presets" = "导入预设"
 "Import" = "导入"
 "Select the folder which contains the presets..." = "选择包含预设的文件夹..."
