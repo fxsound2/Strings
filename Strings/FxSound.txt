@@ -102,3 +102,8 @@ countries: [enter list of 2-character country codes here!]
 "steps." = "steps."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Click here to save new presets, overwrite old ones, or reset your settings."
 "Settings file not found!" = "Settings file not found!"
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey"
+"Use Next Preset" = "Use Next Preset"
+"Use Previous Preset" = "Use Previous Preset"
+"Next Preset" = "Next Preset"
+"Previous Preset" = "Previous Preset"
