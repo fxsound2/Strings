@@ -103,3 +103,4 @@ countries: ru
 "steps." = "шагов."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Нажмите здесь, чтобы сохранить новые шаблоны, перезаписать старые или сбросить ваши настройки."
 "Settings file not found!" = "Settings файл настроек не найден!"
+"FxSound is now open-source" = "FxSound теперь с открытым исходным кодом"

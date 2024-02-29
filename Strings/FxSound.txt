@@ -103,3 +103,4 @@ countries: [enter list of 2-character country codes here!]
 "steps." = "steps."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Click here to save new presets, overwrite old ones, or reset your settings."
 "Settings file not found!" = "Settings file not found!"
+"FxSound is now open-source" = "FxSound is now open-source"

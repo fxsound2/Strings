@@ -71,6 +71,8 @@ countries: tr
 "Reset presets to factory defaults" = "Ön Ayarları fabrika\r\nayarlara sıfırlayın"
 "Turn FxSound On/Off" = "FxSound Etkin/Pasif"
 "Open/Close FxSound" = "FxSound\'u Aç/Kapat"
+"Use Next Preset" = "Sonraki Ön Ayarı Kullan"
+"Use Previous Preset" = "Önceki Ön Ayarı Kullan"
 "Change Preset" = "Ön Ayarı Değiştir"
 "Change Playback Device" = "Ses Aygıtını Değiştir"
 "Language" = "Dil"
@@ -102,3 +104,4 @@ countries: tr
 "steps." = "adımları izleyin."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Yeni ön ayarları kaydetmek, eskilerin üstüne yazmak veya ayarlarınızı sıfırlamak için burayı tıklayın. "
 "Settings file not found!" = "Ayarlar dosyası bulunamadı!"
+"FxSound is now open-source" = "FxSound artık açık kaynaklı"

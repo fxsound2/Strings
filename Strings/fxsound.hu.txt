@@ -71,6 +71,8 @@ countries: [hu]
 "Reset presets to factory defaults" = "Előbeállítások visszaállítása a gyári alapértékekre"
 "Turn FxSound On/Off" = "Kapcsolja be/ki az FxSound-ot"
 "Open/Close FxSound" = "FxSound megnyitása/bezárása"
+"Use Next Preset" = "Következő előbeállítás használata"
+"Use Previous Preset" = "Használja az Előző beállítást"
 "Change Preset" = "Előbeállítás módosítása"
 "Change Playback Device" = "Lejátszási eszköz módosítása"
 "Language" = "Nyelv"
@@ -102,3 +104,4 @@ countries: [hu]
 "steps." = "lépéseket:."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Kattintson ide az új beállítások mentéséhez, a régiek felülírásához vagy a beállítások visszaállításához."
 "Settings file not found!" = "A beállítás fájl nem található!"
+"FxSound is now open-source" = "Az FxSound most nyílt forráskódú"

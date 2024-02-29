@@ -103,3 +103,4 @@ countries: de at ch
 "steps." = "Schritte."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Klicken Sie hier, um neue Voreinstellungen zu speichern, alte zu überschreiben oder Ihre Einstellungen zurückzusetzen."
 "Settings file not found!" = "Einstellungsdatei nicht gefunden!"
+"FxSound is now open-source" = "FxSound ist jetzt Open Source"

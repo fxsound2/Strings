@@ -71,6 +71,8 @@ countries: id
 "Reset presets to factory defaults" = "Setel ulang preset ke default pabrik"
 "Turn FxSound On/Off" = "Nyalakan/Matikan FxSound"
 "Open/Close FxSound" = "Buka/Tutup FxSound"
+"Use Next Preset" = "Gunakan Preset Berikutnya"
+"Use Previous Preset" = "Gunakan Preset Sebelumnya"
 "Change Preset" = "Ubah Preset"
 "Change Playback Device" = "Ubah Perangkat Pemutaran"
 "Language" = "Bahasa"
@@ -102,3 +104,4 @@ countries: id
 "steps." = "Langkah."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Klik di sini untuk menyimpan preset baru, menimpa yang lama, atau mengatur ulang pengaturan Anda."
 "Settings file not found!" = "File pengaturan tidak ditemukan!"
+"FxSound is now open-source" = "FxSound sekarang menjadi sumber terbuka"

@@ -71,6 +71,8 @@ countries: ja
 "Reset presets to factory defaults" = "プリセットを工場出荷時の設定にリセット"
 "Turn FxSound On/Off" = "FxSoundのオン/オフ"
 "Open/Close FxSound" = "FxSoundを開く/閉じる"
+"Use Next Preset" = "次のプリセットを使用する"
+"Use Previous Preset" = "以前のプリセットを使用する"
 "Change Preset" = "プリセットの変更"
 "Change Playback Device" = "再生デバイスの変更"
 "Language" = "言語"
@@ -102,3 +104,4 @@ countries: ja
 "steps." = "ステップ。"
 "Click here to save new presets, overwrite old ones, or reset your settings." = "新しいプリセットを保存、古いプリセットを上書き、または設定をリセットするには、ここをクリックしてください。"
 "Settings file not found!" = "設定ファイルが見つかりませんでした！"
+"FxSound is now open-source" = "FxSound がオープンソースになりました"

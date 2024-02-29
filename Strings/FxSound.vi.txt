@@ -71,6 +71,8 @@ countries: vn
 "Reset presets to factory defaults" = "Đặt lại các giá trị\r\nvề mặc định"
 "Turn FxSound On/Off" = "Bật / Tắt FxSound"
 "Open/Close FxSound" = "Mở / Đóng FxSound"
+"Use Next Preset" = "Sử dụng cài đặt trước tiếp theo"
+"Use Previous Preset" = "Sử dụng giá trị đặt trước trước đó"
 "Change Preset" = "Thay đổi preset"
 "Change Playback Device" = "Thay đổi thiết bị đầu ra"
 "Language" = "Ngôn ngữ"
@@ -102,3 +104,4 @@ countries: vn
 "steps." = "các bước."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Nhấp vào đây để lưu các preset mới, ghi đè cái cũ hoặc đặt lại các cài đặt của bạn."
 "Settings file not found!" = "Không tìm thấy tệp tin thiết lập!"
+"FxSound is now open-source" = "FxSound hiện là nguồn mở"

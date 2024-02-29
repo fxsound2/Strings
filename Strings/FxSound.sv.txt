@@ -104,3 +104,4 @@ countries: se
 "steps." = "steg."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Klicka här för att spara nya förinställningar, skriva över gamla eller återställa inställningarna."
 "Settings file not found!" = "Inställningsfilen hittades inte."
+"FxSound is now open-source" = "FxSound är nu öppen källkod"

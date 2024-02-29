@@ -71,6 +71,8 @@ countries: th
 "Reset presets to factory defaults" = "รีเซ็ตพรีเซตเป็นแบบค่าเริ่มต้นจากโรงงาน"
 "Turn FxSound On/Off" = "เปิดใช้งาน/ปิดใช้งาน FxSound"
 "Open/Close FxSound" = "เปิดแอพ/ปิดแอพ FxSound"
+"Use Next Preset" = "ใช้การตั้งค่าล่วงหน้าถัดไป"
+"Use Previous Preset" = "ใช้ค่าที่ตั้งล่วงหน้าก่อนหน้า"
 "Change Preset" = "เปลี่ยนพรีเซต"
 "Change Playback Device" = "เปลี่ยน Playback"
 "Language" = "ภาษา"
@@ -102,3 +104,4 @@ countries: th
 "steps." = "ขั้นตอน"
 "Click here to save new presets, overwrite old ones, or reset your settings." = "คลิกที่นี่เพื่อบันทึกค่าที่ตั้งไว้ล่วงหน้าใหม่ เขียนทับค่าที่ตั้งไว้ล่วงหน้าหรือรีเซ็ตการตั้งค่าของคุณ"
 "Settings file not found!" = "ไม่พบไฟล์การตั้งค่า!"
+"FxSound is now open-source" = "FxSound เป็นโอเพ่นซอร์สแล้ว"
