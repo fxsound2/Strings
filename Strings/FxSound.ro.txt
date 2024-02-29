@@ -71,6 +71,8 @@ countries: ro
 "Reset presets to factory defaults" = "Resetați setările prestabilite\r\nla setările implicite din fabrică"
 "Turn FxSound On/Off" = "Activați/Dezactivați FxSound"
 "Open/Close FxSound" = "Deschide/Închide FxSound"
+"Use Next Preset" = "Utilizați Următoarea presetare"
+"Use Previous Preset" = "Utilizați presetarea anterioară"
 "Change Preset" = "Schimbați presetarea"
 "Change Playback Device" = "Schimbați dispozitivul de redare"
 "Language" = "Limba"
@@ -102,3 +104,4 @@ countries: ro
 "steps." = "trepte."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Faceți clic aici pentru a salva setările noi, pentru a le suprascrie pe cele vechi sau pentru a vă reseta setările."
 "Settings file not found!" = "Fișierul de setări nu a fost găsit!"
+"FxSound is now open-source" = "FxSound este acum open-source"

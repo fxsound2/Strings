@@ -71,6 +71,8 @@ countries: pl
 "Reset presets to factory defaults" = "Resetowanie ustawień\r\nwstępnych do ustawień fabrycznych"
 "Turn FxSound On/Off" = "Włącz/Wyłącz"
 "Open/Close FxSound" = "Otwórz/Zamknij FxSound"
+"Use Next Preset" = "Użyj następnego ustawienia wstępnego"
+"Use Previous Preset" = "Użyj poprzedniego ustawienia wstępnego"
 "Change Preset" = "Zmień ustawienia wstępne"
 "Change Playback Device" = "Zmień urządzenie do odtwarzania"
 "Language" = "Język"
@@ -102,3 +104,5 @@ countries: pl
 "steps." = "kroki."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Kliknij tutaj, aby zapisać nowe ustawienia wstępne, nadpisać stare lub zresetować ustawienia."
 "Settings file not found!" = "Nie znaleziono pliku ustawień!"
+"FxSound is now open-source" = "FxSound jest teraz oprogramowaniem typu open source"
+

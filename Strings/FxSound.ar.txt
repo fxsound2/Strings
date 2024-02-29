@@ -71,6 +71,8 @@ countries: EG sa
 "Reset presets to factory defaults" = "إستعادة القوالب إلى الوضع الإفتراضي"
 "Turn FxSound On/Off" = "تشغيل/تعطيل FxSound"
 "Open/Close FxSound" = "فتح/إغلاق FxSound"
+"Use Next Preset" = "استخدم الإعداد المسبق التالي"
+"Use Previous Preset" = "استخدم الإعداد المسبق السابق"
 "Change Preset" = "التبديل بين القوالب"
 "Change Playback Device" = "تغيير جهاز التشغيل"
 "Language" = "اللغة"
@@ -102,3 +104,4 @@ countries: EG sa
 "steps." = "الخطوات."
 "Click here to save new presets, overwrite old ones, or reset your settings." = "اضغط هنا لحفظ القوالب الجديدة أو استبدال الإعدادات القديمة أو إعادة ضبط إعداداتك."
 "Settings file not found!" = "لم يتم العثور على ملف الإعدادات!"
+"FxSound is now open-source" = "أصبح FxSound الآن مفتوح المصدر"
