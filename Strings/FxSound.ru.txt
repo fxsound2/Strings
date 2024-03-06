@@ -60,7 +60,7 @@ countries: ru
 "Folder:" = "Папка:"
 "Preset files not found in the selected folder." = "Файлы шаблонов не найдены в выбранное папке."
 "Settings" = "Настройки"
-"Donate" = "Отблагодарить"
+"Donate" = "Пожертвовать"
 "General" = "Общие"
 "Help" = "Справка"
 "General Preferences" = "Общие настройки"
