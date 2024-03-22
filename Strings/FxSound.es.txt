@@ -104,3 +104,4 @@ countries: es ar mx
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Haga clic aquí para guardar nuevos preajustes, sobrescribir los antiguos o restablecer su configuración."
 "Settings file not found!" = "¡Archivo de configuración no encontrado!"
 "FxSound is now open-source" = "FxSound ahora es de código abierto"
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Presione Ctrl + Alt/Shift + 0-9/A-Z para cambiar el atajo de teclado"
