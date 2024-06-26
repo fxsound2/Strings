@@ -105,3 +105,11 @@ countries: pt
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Clique aqui para salvar novas predefinições, substituir as antigas ou redefinir suas configurações."
 "Settings file not found!" = "Arquivo de configurações não encontrado!"
 "FxSound is now open-source" = "FxSound agora é de código aberto"
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Pressione Ctrl + Alt/Shift + 0-9/A-Z para alterar a tecla de atalho"
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound não suporta dispositivos mono, portanto o processamento do FxSound foi desativado para este dispositivo."
+"Minimize Button" = "Botão de minimizar"
+"Output device" = "Dispositivo de saída"
+"Select preferred output" = "Selecionar saída preferida"
+"Preferred output:" = "Saída preferida:"
+"None" = "Nenhum"
+

@@ -105,3 +105,11 @@ countries: tr
 "Click here to save new presets, overwrite old ones, or reset your settings." = "Yeni ön ayarları kaydetmek, eskilerin üstüne yazmak veya ayarlarınızı sıfırlamak için burayı tıklayın. "
 "Settings file not found!" = "Ayarlar dosyası bulunamadı!"
 "FxSound is now open-source" = "FxSound artık açık kaynaklı"
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Kısayolu değiştirmek için Ctrl + Alt/Shift + 0-9/A-Z tuşlarına basın"
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound mono cihazları desteklemez, bu nedenle FxSound işlemi bu cihaz için devre dışı bırakıldı."
+"Minimize Button" = "Küçültme Düğmesi"
+"Output device" = "Çıkış cihazı"
+"Select preferred output" = "Tercih edilen çıkışı seçin"
+"Preferred output:" = "Tercih edilen çıkış:"
+"None" = "Hiçbiri"
+

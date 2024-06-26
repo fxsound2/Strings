@@ -105,4 +105,10 @@ countries: kr
 "Click here to save new presets, overwrite old ones, or reset your settings." = "이곳을 클릭하여 새 프리셋을 저장하거나, 이전 프리셋을 덮어쓰거나, 설정을 초기화하십시오."
 "Settings file not found!" = "설정 파일을 찾을 수 없습니다!"
 "FxSound is now open-source" = "FxSound는 이제 오픈 소스입니다."
-
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "단축키를 변경하려면 Ctrl + Alt/Shift + 0-9/A-Z를 누르세요."
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound는 모노 장치를 지원하지 않으므로 이 장치에 대한 FxSound 처리가 비활성화되었습니다."
+"Minimize Button" = "버튼 최소화"
+"Output device" = "출력 장치"
+"Select preferred output" = "원하는 출력을 선택하세요"
+"Preferred output:" = "선호되는 출력:"
+"None" = "없음"

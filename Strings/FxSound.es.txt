@@ -105,3 +105,15 @@ countries: es ar mx
 "Settings file not found!" = "¡Archivo de configuración no encontrado!"
 "FxSound is now open-source" = "FxSound ahora es de código abierto"
 "Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "Presione Ctrl + Alt/Shift + 0-9/A-Z para cambiar el atajo de teclado"
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound no admite dispositivos mono, por lo que el procesamiento de FxSound ha sido deshabilitado para este dispositivo."
+"Minimize Button" = "Botón de minimizar"
+"Output device" = "Dispositivo de salida"
+"Select preferred output" = "Seleccionar salida preferida"
+"Preferred output:" = "Salida preferida:"
+"None" = "Ninguno"
+
+
+
+
+
+
