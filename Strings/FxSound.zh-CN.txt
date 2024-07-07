@@ -103,10 +103,10 @@ countries: cn sg
 "Click here to save new presets, overwrite old ones, or reset your settings." = "单击此处保存新预设、覆盖旧预设或重置您的设置。"
 "Settings file not found!" = "未找到设置文件！"
 "FxSound is now open-source" = "FxSound 现已开源"
-"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = “按 Ctrl + Alt/Shift + 0-9/A-Z 更改热键”
-"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = “FxSound 不支持单声道设备，因此已禁用此设备的 FxSound 处理。”
-"Minimize Button" = “最小化按钮”
-"Output device" = “输出设备”
-"Select preferred output" = “选择首选输出”
-"Preferred output:" = “首选输出：”
-"None" = “无”
+"Press Ctrl + Alt/Shift + 0-9/A-Z to change the hotkey" = "按 Ctrl + Alt/Shift + 0-9/A-Z 更改热键"
+"FxSound does not support mono devices, so FxSound processing had been disabled for this device." = "FxSound 不支持单声道设备，因此已禁用此设备的 FxSound 处理。"
+"Minimize Button" = "最小化按钮"
+"Output device" = "输出设备"
+"Select preferred output" = "选择首选输出"
+"Preferred output:" = "首选输出："
+"None" = "无"
