@@ -16,7 +16,7 @@ countries: kr
 "Output Disconnected" = "출력 장치 끊김"
 "Output: " = "출력 장치: "
 "Changes to preset %s are saved." = "프리셋 %s에 대한 변경 사항을 저장했습니다."
-"New preset %s is saved." = "새 프리셋 %s을(를) 저장햇습니다."
+"New preset %s is saved." = "새 프리셋 %s을(를) 저장했습니다."
 "Reached the limit on new presets." = "새 사전 설정의 한도에 도달했습니다."
 "Preset %s is deleted." = "프리셋 %s을(를) 삭제했습니다."
 "Presets are restored to factory defaults" = "모든 프리셋이 기본값으로 복원되었습니다."
