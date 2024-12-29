@@ -1,11 +1,11 @@
 language: Indonesian
 countries: id
 
-"Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Ups! Ada masalah dengan setelan perangkat pemutaran Anda.\r\nSebelum kita dapat memulai, silakan melalui"
+"Oops! There\'s an issue with your playback device settings.\r\nBefore we can get started, please go through the " = "Ups! Ada masalah dengan setelan perangkat pemutaran Anda.\r\nSebelum kita dapat memulai, silakan mengikuti "
 "troubleshooting steps here." = "langkah pemecahan masalah di sini."
 " if you\'re still having problems." = " jika Anda masih mengalami masalah."
 "Contact us" = "Hubungi kami"
-"Error in system audio configuration. Unable to run FxSound" = "Kesalahan dalam konfigurasi sistem audio. Tidak dapat menjalankan FxSound"
+"Error in system audio configuration. Unable to run FxSound" = "Kesalahan pada pengaturan audio sistem. Tidak dapat menjalankan FxSound"
 "OK" = "Oke"
 "Click here to see what\'s new on this version!" = "Klik di sini untuk melihat apa yang baru di versi ini!"
 "FxSound in system tray\r\nClick FxSound icon to reopen" = "FxSound di baki sistem\r\nKlik ikon FxSound untuk membuka kembali"
