@@ -80,7 +80,7 @@ countries: id
 "Version" = "Versi"
 "Support" = "Dukungan"
 "Maintenance" = "Pemeliharaan"
-"Changelog" = "Catatan berubahan"
+"Changelog" = "Catatan perubahan"
 "Quick tour" = "Tur singkat"
 "Submit debug logs" = "Kirim log debug"
 "Help center" = "Pusat Bantuan"
