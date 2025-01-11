@@ -111,3 +111,4 @@ countries: [HR]
 "Select preferred output" = "Odaberite preferirani izlaz"
 "Preferred output:" = "Preferirani izlaz:"
 "None" = "Nijedan"
+"Newly connected output device" = "Novo povezani izlazni uređaj"

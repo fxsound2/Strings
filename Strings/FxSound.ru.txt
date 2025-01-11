@@ -111,3 +111,4 @@ countries: ru
 "Select preferred output" = "Выберите предпочтительный вывод"
 "Preferred output:" = "Устройство вывода:"
 "None" = "Ничего"
+"Newly connected output device" = "Недавно подключённое выходное устройство"

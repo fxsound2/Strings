@@ -110,3 +110,4 @@ countries: cn sg
 "Select preferred output" = "选择首选输出"
 "Preferred output:" = "首选输出："
 "None" = "无"
+"Newly connected output device" = "新连接的输出设备"

@@ -112,3 +112,4 @@ countries: kr
 "Select preferred output" = "원하는 출력을 선택하세요"
 "Preferred output:" = "선호되는 출력:"
 "None" = "없음"
+"Newly connected output device" = "새로 연결된 출력 장치"

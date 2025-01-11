@@ -111,3 +111,4 @@ countries: [IR, FA]
 "Select preferred output" = "انتخاب خروجی مورد نظر"
 "Preferred output:" = "خروجی مورد نظر:"
 "None" = "هیچ"
+"Newly connected output device" = "دستگاه خروجی متصل شده جدید"

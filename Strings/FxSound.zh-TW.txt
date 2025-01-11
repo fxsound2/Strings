@@ -110,3 +110,4 @@ countries: Taiwan
 "Select preferred output" = "選擇偏好的輸出"
 "Preferred output:" = "優先輸出："
 "None" = "無"
+"Newly connected output device" = "新連接的輸出裝置"

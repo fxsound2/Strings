@@ -112,4 +112,4 @@ countries: tr
 "Select preferred output" = "Tercih edilen çıkışı seçin"
 "Preferred output:" = "Tercih edilen çıkış:"
 "None" = "Hiçbiri"
-
+"Newly connected output device" = "Yeni bağlanan çıkış cihazı"

@@ -112,3 +112,4 @@ countries: id
 "Select preferred output" = "Pilih perangkat keluaran yang diinginkan"
 "Preferred output:" = "Perangkat keluaran pilihan:"
 "None" = "Tidak ada"
+"Newly connected output device" = "Perangkat keluaran yang baru terhubung"

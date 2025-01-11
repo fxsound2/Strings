@@ -111,3 +111,4 @@ countries: ba
 "Select preferred output" = "Odaberi željeni izlaz"
 "Preferred output:" = "Željeni izlaz:"
 "None" = "nijedno"
+"Newly connected output device" = "Novo povezani izlazni uređaj"
