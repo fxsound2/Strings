@@ -112,3 +112,4 @@ countries: ro
 "Select preferred output" = "Selectează ieșirea preferată"
 "Preferred output:" = "Ieșirea preferată:"
 "None" = "Niciuna"
+"Newly connected output device" = "Dispozitiv de ieșire conectat recent"

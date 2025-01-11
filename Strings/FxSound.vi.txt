@@ -112,3 +112,4 @@ countries: vn
 "Select preferred output" = "Chọn đầu ra ưa thích"
 "Preferred output:" = "Đầu ra ưa thích:"
 "None" = "Không có"
+"Newly connected output device" = "Thiết bị đầu ra vừa được kết nối"

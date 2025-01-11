@@ -111,3 +111,4 @@ countries: de at ch
 "Select preferred output" = "Bevorzugte Ausgabe auswählen"
 "Preferred output:" = "Bevorzugte Ausgabe:"
 "None" = "Keine"
+"Newly connected output device" = "Neu verbundenes Ausgabegerät"

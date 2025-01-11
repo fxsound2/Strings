@@ -112,3 +112,4 @@ countries: EG sa
 "Select preferred output" = "اختر الإخراج المفضل"
 "Preferred output:" = "الإخراج المفضل:"
 "None" = "لا شيء"
+"Newly connected output device" = "جهاز الإخراج المتصل حديثًا"

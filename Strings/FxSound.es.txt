@@ -111,9 +111,4 @@ countries: es ar mx
 "Select preferred output" = "Seleccionar salida preferida"
 "Preferred output:" = "Salida preferida:"
 "None" = "Ninguno"
-
-
-
-
-
-
+"Newly connected output device" = "Dispositivo de salida recién conectado"

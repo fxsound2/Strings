@@ -112,4 +112,4 @@ countries: pt
 "Select preferred output" = "Selecionar saída preferida"
 "Preferred output:" = "Saída preferida:"
 "None" = "Nenhum"
-
+"Newly connected output device" = "Dispositivo de saída recentemente conectado"
