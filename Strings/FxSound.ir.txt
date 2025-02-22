@@ -112,3 +112,5 @@ countries: [IR, FA]
 "Preferred output:" = "خروجی مورد نظر:"
 "None" = "هیچ"
 "Newly connected output device" = "دستگاه خروجی متصل شده جدید"
+"Hide notifications" = "مخفی کردن اعلان‌ها"
+

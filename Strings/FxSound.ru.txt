@@ -112,3 +112,4 @@ countries: ru
 "Preferred output:" = "Устройство вывода:"
 "None" = "Ничего"
 "Newly connected output device" = "Недавно подключённое устройство вывода звука"
+"Hide notifications" = "Скрыть уведомления"

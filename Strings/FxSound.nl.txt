@@ -114,3 +114,4 @@ van deze EQ-band. Verhoog of verlaag \r\neen deel van de frequenties van uw audi
 "Preferred output:" = "Gewenste uitvoer:"
 "None" = "Geen"
 "Newly connected output device" = "Nieuw aangesloten uitvoerapparaat"
+"Hide notifications" = "Meldingen verbergen"

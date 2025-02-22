@@ -112,3 +112,4 @@ countries: es ar mx
 "Preferred output:" = "Salida preferida:"
 "None" = "Ninguno"
 "Newly connected output device" = "Dispositivo de salida recién conectado"
+"Hide notifications" = "Ocultar notificaciones"

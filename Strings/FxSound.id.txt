@@ -113,3 +113,4 @@ countries: id
 "Preferred output:" = "Perangkat keluaran pilihan:"
 "None" = "Tidak ada"
 "Newly connected output device" = "Perangkat keluaran yang baru terhubung"
+"Hide notifications" = "Sembunyikan notifikasi"

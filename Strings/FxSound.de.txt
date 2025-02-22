@@ -112,3 +112,4 @@ countries: de at ch
 "Preferred output:" = "Bevorzugte Ausgabe:"
 "None" = "Keine"
 "Newly connected output device" = "Neu verbundenes Ausgabegerät"
+"Hide notifications" = "Benachrichtigungen ausblenden"

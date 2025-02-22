@@ -113,3 +113,4 @@ countries: ja
 "Preferred output:" = "優先出力:"
 "None" = "なし"
 "Newly connected output device" = "新しく接続された出力デバイス"
+"Hide notifications" = " 通知を非表示にする"

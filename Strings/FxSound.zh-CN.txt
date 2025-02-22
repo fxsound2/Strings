@@ -111,3 +111,4 @@ countries: cn sg
 "Preferred output:" = "首选输出："
 "None" = "无"
 "Newly connected output device" = "新连接的输出设备"
+"Hide notifications" = "隐藏通知"

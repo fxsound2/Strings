@@ -113,3 +113,4 @@ countries: kr
 "Preferred output:" = "선호되는 출력:"
 "None" = "없음"
 "Newly connected output device" = "새로 연결된 출력 장치"
+"Hide notifications" = "알림 숨기기"

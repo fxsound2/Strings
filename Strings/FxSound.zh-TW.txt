@@ -111,3 +111,4 @@ countries: Taiwan
 "Preferred output:" = "優先輸出："
 "None" = "無"
 "Newly connected output device" = "新連接的輸出裝置"
+"Hide notifications" = "隱藏通知"

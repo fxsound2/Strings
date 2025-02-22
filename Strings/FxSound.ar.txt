@@ -113,3 +113,4 @@ countries: EG sa
 "Preferred output:" = "الإخراج المفضل:"
 "None" = "لا شيء"
 "Newly connected output device" = "جهاز الإخراج المتصل حديثًا"
+"Hide notifications" = "إخفاء الإشعارات"

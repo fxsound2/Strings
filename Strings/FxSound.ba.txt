@@ -112,3 +112,4 @@ countries: ba
 "Preferred output:" = "Željeni izlaz:"
 "None" = "nijedno"
 "Newly connected output device" = "Novo povezani izlazni uređaj"
+"Hide notifications" = "Sakrij obavještenja"

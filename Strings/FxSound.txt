@@ -112,3 +112,4 @@ countries: [enter list of 2-character country codes here!]
 "Preferred output:" = "Preferred output:"
 "None" = "None"
 "Newly connected output device" = "Newly connected output device"
+"Hide notifications" = "Hide notifications"
