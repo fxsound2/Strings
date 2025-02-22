@@ -113,3 +113,4 @@ countries: fr
 "Preferred output:" = "Sortie préférée :"
 "None" = "Aucun"
 "Newly connected output device" = "Appareil de sortie récemment connecté"
+"Hide notifications" = "Masquer les notifications"

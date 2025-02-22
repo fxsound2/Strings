@@ -113,3 +113,4 @@ countries: th
 "Preferred output:" = "ผลลัพธ์ที่ต้องการ:"
 "None" = "ไม่มี"
 "Newly connected output device" = "อุปกรณ์ส่งออกที่เพิ่งเชื่อมต่อ"
+"Hide notifications" = "ซ่อนการแจ้งเตือน"

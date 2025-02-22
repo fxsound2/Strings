@@ -113,3 +113,4 @@ countries: [hu]
 "Preferred output:" = "Preferált kimenet:"
 "None" = "Egyik sem"
 "Newly connected output device" = "Újonnan csatlakoztatott kimeneti eszköz"
+"Hide notifications" = "Értesítések elrejtése"

@@ -112,3 +112,4 @@ countries: [HR]
 "Preferred output:" = "Preferirani izlaz:"
 "None" = "Nijedan"
 "Newly connected output device" = "Novo povezani izlazni uređaj"
+"Hide notifications" = "Sakrij obavijesti"

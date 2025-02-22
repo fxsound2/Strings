@@ -113,3 +113,4 @@ countries: ro
 "Preferred output:" = "Ieșirea preferată:"
 "None" = "Niciuna"
 "Newly connected output device" = "Dispozitiv de ieșire conectat recent"
+"Hide notifications" = "Ascunde notificările"

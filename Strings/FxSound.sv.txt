@@ -113,3 +113,4 @@ countries: se
 "Preferred output:" = "Önskad utdata:"
 "None" = "Ingen"
 "Newly connected output device" = "Nyanslutet utmatningsenhet"
+"Hide notifications" = "Dölj aviseringar"

@@ -113,3 +113,4 @@ countries: vn
 "Preferred output:" = "Đầu ra ưa thích:"
 "None" = "Không có"
 "Newly connected output device" = "Thiết bị đầu ra vừa được kết nối"
+"Hide notifications" = "Ẩn thông báo"

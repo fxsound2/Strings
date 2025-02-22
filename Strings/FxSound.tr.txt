@@ -113,3 +113,4 @@ countries: tr
 "Preferred output:" = "Tercih edilen çıkış:"
 "None" = "Hiçbiri"
 "Newly connected output device" = "Yeni bağlanan çıkış cihazı"
+"Hide notifications" = "Bildirimleri gizle"
